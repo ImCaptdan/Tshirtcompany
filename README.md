@@ -2,7 +2,7 @@
 
 Lets copy this thing https://paulthompsonsd.wixsite.com/mysite
 
-Current status https://imcaptdan.github.io/Tshirtcompany/
+Current status https://imcaptdan.github.io/TshirtcompanyMain/
 
 1. store link working
 2. Wiz Ad banner removed from top of site
